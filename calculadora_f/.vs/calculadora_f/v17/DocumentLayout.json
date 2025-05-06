@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1CE2E5-BFC4-403A-9B98-40518C887350}|UnitTestCalculator\\UnitTestCalculator.vcxproj|D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\UnitTestCalculator\\UnitTestCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB1CE2E5-BFC4-403A-9B98-40518C887350}|UnitTestCalculator\\UnitTestCalculator.vcxproj|solutionrelative:UnitTestCalculator\\UnitTestCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF72814-B68A-4672-8146-13509BC8854E}|calculadora_f\\calculadora_f.vcxproj|D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\calculadora_f\\calculadora_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EF72814-B68A-4672-8146-13509BC8854E}|calculadora_f\\calculadora_f.vcxproj|solutionrelative:calculadora_f\\calculadora_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1CE2E5-BFC4-403A-9B98-40518C887350}|UnitTestCalculator\\UnitTestCalculator.vcxproj|D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\UnitTestCalculator\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB1CE2E5-BFC4-403A-9B98-40518C887350}|UnitTestCalculator\\UnitTestCalculator.vcxproj|solutionrelative:UnitTestCalculator\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\UnitTestCalculator\\pch.cpp",
+              "RelativeDocumentMoniker": "UnitTestCalculator\\pch.cpp",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\UnitTestCalculator\\pch.cpp",
+              "RelativeToolTip": "UnitTestCalculator\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T07:28:56.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTestCalculator.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\UnitTestCalculator\\UnitTestCalculator.cpp",
+              "RelativeDocumentMoniker": "UnitTestCalculator\\UnitTestCalculator.cpp",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\UnitTestCalculator\\UnitTestCalculator.cpp",
+              "RelativeToolTip": "UnitTestCalculator\\UnitTestCalculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T07:19:26.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculadora_.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\calculadora_f\\calculadora_.cpp",
+              "RelativeDocumentMoniker": "calculadora_f\\calculadora_.cpp",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\calculadora_f\\calculadora_f\\calculadora_.cpp",
+              "RelativeToolTip": "calculadora_f\\calculadora_.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T07:45:40.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\ecuacionsegundogrado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F4518D-F198-4924-87AB-5EB2A21AE451}|ecuacionsegundogrado\\ecuacionsegundogrado.vcxproj|D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\ecuacionsegundogrado\\ecuacionsegundogrado\\ecuacionsegundogrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02F4518D-F198-4924-87AB-5EB2A21AE451}|ecuacionsegundogrado\\ecuacionsegundogrado.vcxproj|solutionrelative:ecuacionsegundogrado\\ecuacionsegundogrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ecuacionsegundogrado.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\ecuacionsegundogrado\\ecuacionsegundogrado\\ecuacionsegundogrado.cpp",
+              "RelativeDocumentMoniker": "ecuacionsegundogrado\\ecuacionsegundogrado.cpp",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Centre d\u0027Estudis Monlau\\Entornos\\ecuacionsegundogrado\\ecuacionsegundogrado\\ecuacionsegundogrado.cpp",
+              "RelativeToolTip": "ecuacionsegundogrado\\ecuacionsegundogrado.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T07:56:19.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
